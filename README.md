@@ -6,6 +6,8 @@ I'm a Computer Science Engineering student at Vellore Institute of Technology, V
 - Python, C, C++, Java
 - Data Structures & Algorithms
 - Object-Oriented Programming
+- HTML, CSS, JavaScript
+- FLask
 
 🚀 Currently Working On
 - Secure Online Voting System (Python)
