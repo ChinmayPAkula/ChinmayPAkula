@@ -7,10 +7,7 @@ I'm a Computer Science Engineering student at Vellore Institute of Technology, V
 - Data Structures & Algorithms
 - Object-Oriented Programming
 - HTML, CSS, JavaScript
-- FLask
-
-🚀 Currently Working On
-- Secure Online Voting System (Python)
+- FLask, FastAPI
 
 📫 Connect with me
 - LinkedIn: https://www.linkedin.com/in/akulapchinmayy
