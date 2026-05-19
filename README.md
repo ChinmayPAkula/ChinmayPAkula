@@ -1,13 +1,11 @@
-Hi, I'm Chinmay P Akula
+## Hi, I'm Chinmay
 
-I'm a Computer Science Engineering student at Vellore Institute of Technology, Vellore, with a strong foundation in programming and problem-solving.
+CS Engineering student at VIT Vellore — I build full-stack web apps and explore GenAI & agentic AI. Passionate about startups and shipping things that actually work.
 
-🧠 Skills
-- Python, C, C++, Java
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- HTML, CSS, JavaScript
-- FLask, FastAPI
+**Languages:** Python · C · C++ · Java
 
-📫 Connect with me
-- LinkedIn: https://www.linkedin.com/in/akulapchinmayy
+**Web & Frameworks:** HTML · CSS · JavaScript · React · Flask · FastAPI
+
+**Currently exploring:** GenAI · Agentic AI
+
+**Links:** [LinkedIn](https://www.linkedin.com/in/akulapchinmayy)
